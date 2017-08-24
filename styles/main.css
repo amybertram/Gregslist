@@ -3,6 +3,7 @@ body {
 	max-width: 1000px;
 	font-size: 16px;
 	padding: 80px;
+	font-family: 'Roboto', sans-serif;
 }
 
 nav {
@@ -14,7 +15,6 @@ nav {
 	height: 20px;
 	width: 100%;
 	border: 1px lightgrey solid;
-	font-family: 'Roboto', sans-serif;
 	font-size: 18px;
 }
 
@@ -53,7 +53,7 @@ a.icon:visited, a.icon:link {
 	vertical-align: middle;
 	display: inline-block;
 	border: 1px solid #DDDDDD;
-	border-radius: 3px;
+	border-radius: 2px;
 	padding: 5px;
 }
  
@@ -101,7 +101,7 @@ a.icon:visited, a.icon:link {
 }
 
 .results .job-title {
-	font-weight: 700;
+	font-weight: 800;
 }
 
 .results .date, .results .location {
