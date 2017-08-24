@@ -67,13 +67,18 @@ a.icon:visited, a.icon:link {
 	height: 20px;
 }
 
-.page ul {
+/*.page ul {
 	padding: 0px;
 }
 
 .page ul li {
 	display: inline-block;
-	border: 1px solid black;
+	border: 1px solid black;*/
+}
+.page {
+	display: inline-block;
+	border: 1px solid #DDDDDD;
+	border-radius: 3px;
 }
 
 .results {
