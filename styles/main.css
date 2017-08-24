@@ -67,9 +67,38 @@ a.icon:visited, a.icon:link {
 	height: 20px;
 }
 
+.page ul {
+	padding: 0px;
+}
 
 .page ul li {
 	display: inline-block;
 	border: 1px solid black;
+}
+
+.results {
+	padding: 0px;
+}
+
+.results li {
+	padding: 0px;
+}
+
+.results .job-title {
+	font-weight: 600;
+}
+
+.results .date, .results .location {
+	color: #999;
+}
+
+.job-title {
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+.results li {
+	padding-bottom: 15px;
+	list-style: none;
 }
 
